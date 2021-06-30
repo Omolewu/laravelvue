@@ -14507,7 +14507,6 @@ window.Popper = __webpack_require__(3).default;
 
 try {
   window.$ = window.jQuery = __webpack_require__(4);
-
   __webpack_require__(16);
   __webpack_require__(17);
 } catch (e) {}
