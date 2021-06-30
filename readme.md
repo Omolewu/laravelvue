@@ -1,1 +1,1 @@
-Multipupose app using Laravel and VueJs 
+Multipurpose app using Laravel and VueJs 
